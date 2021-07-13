@@ -1,0 +1,2 @@
+# secant-calculate
+SECANT METHOD IN NUMERICAL ANALYSIS
